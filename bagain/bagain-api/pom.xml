@@ -9,6 +9,7 @@
   </parent> 
   
   <artifactId>bagain-api</artifactId>
+  <packaging>war</packaging>
   <name>bagain-api</name>
   <url>http://maven.apache.org</url>
   <properties>
